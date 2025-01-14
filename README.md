@@ -1,2 +1,2 @@
 # FaceRecognition-with-Raspberry-Pi-3
-Program Face Detection with Viola jones and Recognition with Neural Network using Eyes Blinking with on Raspberry Pi 
+Program for Face Detection Using Viola-Jones and Recognition with a Neural Network via Eye Blinking on a Raspberry Pi
